@@ -7,7 +7,7 @@ This is a Go package that implements the FNV-XOR-Mask-Shuffle symmetric encrypti
 To use this package, you can install it using go get command:
 
 ```bash
-go get github.com/NIR3X/fxms
+go get -u github.com/NIR3X/fxms
 ```
 
 ## Usage
